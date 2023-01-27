@@ -1,0 +1,25 @@
+.datatableData {
+  align-self: center;
+  height: 830px;
+  padding: 100px;
+}
+
+.datatableCategory {
+  align-self: center;
+  height: 466px;
+  padding: 100px;
+
+  .cellAction {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+
+    .calculateButton {
+      padding: 2px 5px;
+      border-radius: 5px;
+      color: darkblue;
+      border: 1px solid rgba(0, 0, 139, 0.611);
+      cursor: pointer;
+    }
+  }
+}
