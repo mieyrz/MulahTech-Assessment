@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MulahTech-Assessment/static/css/main.bef1b1e0.css",
+    "main.js": "/MulahTech-Assessment/static/js/main.9714f0e1.js",
+    "index.html": "/MulahTech-Assessment/index.html",
+    "main.bef1b1e0.css.map": "/MulahTech-Assessment/static/css/main.bef1b1e0.css.map",
+    "main.9714f0e1.js.map": "/MulahTech-Assessment/static/js/main.9714f0e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bef1b1e0.css",
+    "static/js/main.9714f0e1.js"
+  ]
+}
